@@ -10,6 +10,7 @@
 </div>
 
 ---
+<!--
 
 ### 🔗 Connect
 <div align="left">
@@ -36,7 +37,7 @@
 </p>
 
 ---
-
+-->
 ### 🧰 Technical Skills & Tools
 
 #### **Backend Development**
